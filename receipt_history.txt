@@ -1,0 +1,63 @@
+Customer 20191212225345
+Subtotal: 17.73  Tax: 1.42  Grand Total: 19.15  
+
+Customer 20191212225707
+Subtotal: 17.73  Tax: 1.42  Grand Total: 19.15  
+
+Customer 20191212225914
+Subtotal: 17.73  Tax: 1.42  Grand Total: 19.15  
+
+Customer 20191212230120
+Subtotal: 17.73  Tax: 1.42  Grand Total: 19.15  
+
+Customer 20191212230125
+Subtotal: 7.37  Tax: 0.59  Grand Total: 7.96  
+
+Customer 20191213122245
+Subtotal: 1.23  Tax: 0.10  Grand Total: 1.33  
+
+Customer 20191213122324
+Subtotal: 6.89  Tax: 0.55  Grand Total: 7.44  
+
+Customer 20191213123441
+Subtotal: 2.27  Tax: 0.18  Grand Total: 2.46  
+
+Customer 20191213123507
+Subtotal: 1.29  Tax: 0.10  Grand Total: 1.40  
+
+Customer 20191213124520
+Subtotal: 0.00  Tax: 0.00  Grand Total: 0.00  
+
+Customer 20191213124606
+Subtotal: 0.00  Tax: 0.00  Grand Total: 0.00  
+
+Customer 20191213124715
+Subtotal: 4.23  Tax: 0.34  Grand Total: 4.57  
+
+Customer 20191213124757
+Subtotal: 2.28  Tax: 0.18  Grand Total: 2.46  
+
+Customer 20191213124817
+Subtotal: 6.23  Tax: 0.50  Grand Total: 6.73  
+
+Customer 20191213125056
+Subtotal: 17.73  Tax: 1.42  Grand Total: 19.15  
+
+Customer 20191213125303
+Subtotal: 8.56  Tax: 0.68  Grand Total: 9.25  
+
+Customer 20191213125816
+Subtotal: 3.84  Tax: 0.31  Grand Total: 4.15  
+
+Customer 20191213125824
+Subtotal: 7.68  Tax: 0.61  Grand Total: 8.30  
+
+Customer 20191213125941
+Subtotal: 13.27  Tax: 1.06  Grand Total: 14.33  
+
+Customer 20191213130029
+Subtotal: 17.73  Tax: 1.42  Grand Total: 19.15  
+
+Customer 20191213130118
+Subtotal: 3.65  Tax: 0.29  Grand Total: 3.94  
+
